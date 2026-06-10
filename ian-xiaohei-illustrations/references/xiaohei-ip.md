@@ -1,53 +1,53 @@
-# 小黑 IP
+# Xiaohei Character IP
 
-## 角色定义
+## Character Definition
 
-小黑是 Ian 中文正文配图的固定视觉 IP。
+Xiaohei is the recurring visual character in Ian's inline article illustrations.
 
-默认每张图都要出现小黑。小黑不是吉祥物，不是贴纸，不是可爱装饰，而是正在认真参与系统运转的荒诞工作者。
+Xiaohei should appear in every image by default. Xiaohei is not a mascot, sticker, or cute decoration, but an absurd worker seriously participating in the operation of a system.
 
-## 外形
+## Appearance
 
-- 黑色实心小怪物。
-- 白色圆点眼睛。
-- 细腿，偶尔有细胳膊。
-- 身体可以是圆柱、黑豆、黑盒、漏斗、影子、洞口、机器内部黑块。
-- 轮廓略微不规则，有手绘感。
-- 表情空、呆、冷静、认真。
+- A small, solid-black creature.
+- White dot eyes.
+- Thin legs and occasional thin arms.
+- The body can be a cylinder, black bean, black box, funnel, shadow, hole, or black mass inside a machine.
+- A slightly irregular, hand-drawn outline.
+- A blank, vacant, calm, and serious expression.
 
-## 性格
+## Personality
 
-- 很认真，但做的事有点荒诞。
-- 像一个低调的系统操作员。
-- 冷幽默，不卖萌。
-- 有点笨拙，但不蠢。
-- 像在白板草图里真的负责某个工作。
+- Very serious while doing something slightly absurd.
+- Like an understated system operator.
+- Dryly funny, never trying to be cute.
+- Slightly clumsy, but not foolish.
+- Looks genuinely responsible for a job inside a whiteboard sketch.
 
-## 常见职责
+## Common Responsibilities
 
-让小黑承担核心动作：
+Make Xiaohei perform the core action:
 
-- 搬运素材。
-- 拉线汇聚信息源。
-- 卡在断点里。
-- 在机器里操作“判断”杆。
-- 变成筛选漏斗。
-- 切开“素材鱼”。
-- 盖章承接话术。
-- 牵着承接路径。
-- 举警告牌看坑。
-- 从洞里伸手但接不住内容。
-- 在旁边搬砖、搭桥、开门、分拣、记录。
+- Carrying source material.
+- Pulling lines to gather information sources.
+- Getting stuck at a breakpoint.
+- Operating a "judgment" lever inside a machine.
+- Becoming a sorting funnel.
+- Cutting open a "source-material fish."
+- Stamping handoff copy.
+- Guiding a handoff path.
+- Holding a warning sign while inspecting pitfalls.
+- Reaching from a hole but failing to catch content.
+- Moving blocks, building bridges, opening doors, sorting, or recording.
 
-## 禁止
+## Prohibitions
 
-- 不要把小黑画成过度可爱的吉祥物。
-- 不要画成儿童卡通角色。
-- 不要给小黑复杂服装、表情包、闪亮眼睛。
-- 不要让小黑只是站在角落里看。
-- 不要让小黑抢走结构表达。
-- 不要把小黑画得太商业、太圆润、太精致。
+- Do not draw Xiaohei as an overly cute mascot.
+- Do not make Xiaohei a children's cartoon character.
+- Do not give Xiaohei complex clothing, reaction-image expressions, or sparkling eyes.
+- Do not leave Xiaohei standing in a corner and watching.
+- Do not let Xiaohei overwhelm the structural idea.
+- Do not make Xiaohei too commercial, rounded, or polished.
 
-## 判断标准
+## Evaluation Standard
 
-如果去掉小黑，图的核心隐喻还能完全成立，说明小黑太装饰了；要重写提示词，让小黑成为动作主体。
+If the image's core metaphor still works perfectly after removing Xiaohei, then Xiaohei is too decorative. Rewrite the prompt so Xiaohei performs the core action.

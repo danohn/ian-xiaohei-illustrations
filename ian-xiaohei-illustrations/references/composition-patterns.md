@@ -1,91 +1,91 @@
-# 构图模式与原创规则
+# Composition Patterns and Originality Rules
 
-## 基础结构类型
+## Basic Structure Types
 
-选择一种结构即可，不要混太多。
+Choose one structure rather than mixing too many.
 
-### Workflow 流程
+### Workflow
 
-适合：输入 -> 处理 -> 输出，内容生产，AI 工作流，自动化链路。
+Suitable for: Input -> process -> output, content production, AI workflows, and automation chains.
 
-画法：左侧输入，中间小黑或怪机器处理，右侧输出，橙色箭头表达主流向。
+Approach: Show input on the left, Xiaohei or a strange machine processing it in the middle, and output on the right. Use orange arrows for the main flow.
 
-### 系统局部
+### System Detail
 
-适合：信息来源、过滤器、数据库、渲染器、agent 系统局部。
+Suitable for: Information sources, filters, databases, renderers, and part of an agent system.
 
-画法：只画 3-5 个核心模块，小黑参与其中一个关键动作。
+Approach: Show only 3-5 core modules, with Xiaohei participating in one key action.
 
-### 前后对比
+### Before and After
 
-适合：混乱/有序，手动/自动，分散/收拢，焦虑/稳定。
+Suitable for: Chaos/order, manual/automatic, scattered/gathered, and anxious/stable.
 
-画法：左混乱，右稳定，中间橙色箭头。角色可以更夸张。
+Approach: Show chaos on the left, stability on the right, and an orange arrow between them. The character can be more exaggerated.
 
-### 角色状态
+### Character States
 
-适合：用户痛点、创作者状态、工具太多、信息焦虑、卡住到跑起来。
+Suitable for: User pain points, creator states, too many tools, information anxiety, and moving from stuck to running.
 
-画法：2-4 个小状态，每个状态一个短标注。
+Approach: Show 2-4 small states, each with one short label.
 
-### 概念隐喻
+### Conceptual Metaphor
 
-适合：内容工厂、信息仓库、脑内黑盒、工作流机器、自动日报。
+Suitable for: A content factory, information warehouse, mental black box, workflow machine, or automated daily report.
 
-画法：一个大的怪物件或机器，少量输入，一个输出。要有记忆点。
+Approach: Show one large strange object or machine, a few inputs, and one output. Make it memorable.
 
-### 方法分层
+### Method Layers
 
-适合：方法论框架、系统层级、能力栈、内容系统分层。
+Suitable for: Methodology frameworks, system levels, capability stacks, and content-system layers.
 
-画法：一层层盒子，不要正式金字塔；小黑在旁边搬砖或搭建。
+Approach: Use layers of boxes rather than a formal pyramid. Xiaohei can move blocks or build beside them.
 
-### 地图路线
+### Map Route
 
-适合：从想法到上线、用户路径、内容承接路径、学习路线。
+Suitable for: Idea to launch, user journeys, content handoff paths, and learning paths.
 
-画法：一条弯曲路径，少量节点，小黑牵线或走路。
+Approach: Draw one curved path with a few nodes. Xiaohei can guide a line or walk along it.
 
-### 小漫画分镜
+### Mini-Comic Sequence
 
-适合：失败到成功、真实过程、吐槽、使用前后变化。
+Suitable for: Failure to success, a real process, complaints, and before-and-after changes.
 
-画法：2-4 个小场景，每格只表达一个动作。
+Approach: Use 2-4 small scenes, each expressing only one action.
 
-## 原创隐喻生成法
+## Original-Metaphor Method
 
-每次都从当前文章重新发明隐喻，不能照搬旧图。
+Invent a metaphor from the current article every time. Do not copy an old image.
 
-### 三步
+### Three Steps
 
-1. 把抽象概念换成一个物理动作：卡住、漏掉、变重、分拣、沉淀、发酵、开门、折叠、拆包、回流。
-2. 把系统结构换成一个低科技物件：坏掉的机器、纸箱、抽屉、水管、邮筒、怪表盘、秤、井、梯子、奇怪工位。
-3. 让小黑承担动作：不是站旁边，而是卡在机器里、拉错线、守门、搬运、修补、称重、扶梯子、记录、把东西塞进某个怪装置。
+1. Turn an abstract concept into a physical action: getting stuck, leaking, becoming heavier, sorting, settling, fermenting, opening, folding, unpacking, or flowing back.
+2. Turn the system structure into a low-tech object: a broken machine, cardboard box, drawer, pipe, mailbox, strange dial, scale, well, ladder, or odd workstation.
+3. Make Xiaohei perform the action: stuck inside the machine, pulling the wrong line, guarding a door, carrying, repairing, weighing, holding a ladder, recording, or stuffing something into a strange device.
 
-### 可用物件池
+### Object Pool
 
-- 纸箱、抽屉、旧机器、漏斗、秤、邮筒、门、井、梯子、水管、线团、闸门、转盘、黑盒、打孔器、压面机、晾衣绳、怪工位。
-- 用时只选 1-2 个，不要堆满。
+- Cardboard boxes, drawers, old machines, funnels, scales, mailboxes, doors, wells, ladders, pipes, tangled thread, gates, turntables, black boxes, hole punches, pasta rollers, clotheslines, and odd workstations.
+- Choose only 1-2 rather than filling the image.
 
-### 小黑动作池
+### Xiaohei Action Pool
 
-- 拉、扛、塞、捞、压、称、缝、剪、拧、守、推、接、拆、标记、回收。
-- 动作要服务核心意思，不要为了怪而怪。
+- Pull, carry, stuff, scoop, press, weigh, sew, cut, twist, guard, push, catch, unpack, mark, or recycle.
+- The action must serve the core idea; do not be strange merely for strangeness's sake.
 
-## 反复刻规则
+## Anti-Copying Rules
 
-不要默认打开或复刻 `assets/examples/`。这些图片只用于风格校准，例如线条密度、留白、颜色克制、小黑气质。
+Do not open or reproduce `assets/examples/` by default. These images are only for style calibration, such as line density, white space, restrained color, and Xiaohei's character.
 
-除非用户明确说“照这张 / 复刻这个构图 / 用这个案例改”，否则不要直接复用这些旧构图：
+Unless the user explicitly asks to copy an image, reproduce a composition, or adapt an example, do not directly reuse these old compositions:
 
-- 传送带两个断点
-- 小黑在内容机器里拉判断杆
-- 小黑变漏斗分拣流量/信任/转化
-- 小黑切素材鱼
-- 小黑牵承接路径
-- 小黑拉三层信息源
-- 三个小黑分别拿喇叭/搭桥/开门
-- 小黑盖章话术工具箱
-- 小黑举牌看常见坑路径
+- Two breakpoints on a conveyor belt
+- Xiaohei pulling a judgment lever inside a content machine
+- Xiaohei becoming a funnel that sorts reach, trust, and conversion
+- Xiaohei cutting a source-material fish
+- Xiaohei guiding a handoff path
+- Xiaohei pulling three layers of information sources
+- Three Xiaohei figures respectively holding a megaphone, building a bridge, and opening a door
+- Xiaohei stamping a handoff-copy toolbox
+- Xiaohei holding a sign while inspecting a common-pitfalls path
 
-同类主题也要换新隐喻。例如“承接路径”不一定画路线，可以画小黑把内容尾巴接到门把手；“一鱼多吃”不一定画鱼，可以画小黑把一个纸团压成几种形状。
+Invent a new metaphor even for a similar topic. For example, a "handoff path" does not have to be a route; Xiaohei could connect a content tail to a door handle. "One source, many uses" does not have to use a fish; Xiaohei could press one paper ball into several shapes.
